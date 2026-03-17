@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Editors
+.vscode/
+.idea/
